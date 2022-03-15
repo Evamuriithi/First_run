@@ -1,0 +1,1 @@
+print('it's a beautiful day in Kelowna')
